@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -15,3 +16,17 @@ ENV/
 .vscode/
 *.swp
 *.swo
+=======
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+*.env
+>>>>>>> 746959e701f2b854918b79908271105858ad43a1

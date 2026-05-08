@@ -1,9 +1,17 @@
 [project]
+<<<<<<< HEAD
 name = "new-folder"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
+=======
+name = "end-2-end-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+>>>>>>> 746959e701f2b854918b79908271105858ad43a1
 dependencies = [
     "python-dotenv>=1.2.2",
 ]
